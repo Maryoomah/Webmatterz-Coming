@@ -188,6 +188,12 @@
   .mt-16 {
     margin-top: calc(var(--spacing) * 16);
   }
+  .mb-6 {
+    margin-bottom: calc(var(--spacing) * 6);
+  }
+  .block {
+    display: block;
+  }
   .flex {
     display: flex;
   }
